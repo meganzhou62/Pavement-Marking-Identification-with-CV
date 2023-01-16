@@ -12,4 +12,4 @@ The original input data are large aerial pictures. Here's one example of it:
 
 ![](https://github.com/meganzhou62/Pavement-Marking-Identification-with-CV/blob/main/img/example_input.jpg?raw=true "Optional Title")
 
-To view the process and outcome of this project, please click on Final Report. 
+To view the process and outcome of this project, please click on Final Report (https://github.com/meganzhou62/Pavement-Marking-Identification-with-CV/blob/main/Final%20Report.pdf.) 
